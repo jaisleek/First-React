@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jaisleek/First-React/static/css/main.d221dc40.css",
+    "main.js": "/jaisleek/First-React/static/js/main.869bc9a1.js",
+    "static/js/453.5c3d08e8.chunk.js": "/jaisleek/First-React/static/js/453.5c3d08e8.chunk.js",
+    "index.html": "/jaisleek/First-React/index.html",
+    "main.d221dc40.css.map": "/jaisleek/First-React/static/css/main.d221dc40.css.map",
+    "main.869bc9a1.js.map": "/jaisleek/First-React/static/js/main.869bc9a1.js.map",
+    "453.5c3d08e8.chunk.js.map": "/jaisleek/First-React/static/js/453.5c3d08e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.869bc9a1.js"
+  ]
+}
